@@ -10,7 +10,8 @@ namespace GitSample
 	{
 		static void Main(string[] args)
 		{
-			string a = "";
+			string a = "Hello";
+			Console.Write(a);
 			return;
 		}
 	}
