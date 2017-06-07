@@ -11,7 +11,7 @@ namespace GitSample
 		static void Main(string[] args)
 		{
 			string a = "Hello";
-			string b = "Test new branch";
+			string b = "Test new branch + server";
 			Console.Write(a + b);
 			return;
 		}
